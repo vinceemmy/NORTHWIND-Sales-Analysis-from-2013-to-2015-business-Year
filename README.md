@@ -8,7 +8,7 @@
 ---
 
 ## Data sourcing and preparation
-#### The data used for this analysis was sourced from the different departments that needed that data to be analyzed. The data has gone through a thorough data preparation process such as cleaning and transformation. The columns with empty cells were ignored since it wasn’t going to be useful in the analysis. The data has been simply visualized for easy understanding.
+#### The data used for this analysis was sourced from the different departments that needed their data to be analyzed. The data has passed through a thorough data preparation process such as cleaning and transformation. The columns with empty cells were ignored since it wasn’t going to be useful in the analysis. The data has been simply visualized for easy understanding.
 
 ## Objectives
 ### The primary PKIs include;
